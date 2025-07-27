@@ -1,0 +1,16 @@
+[
+  {
+    "id": "q1",
+    "question": "Tom has 3 pencils. He buys 4 more. How many pencils does he have?",
+    "gold": "7",
+    "direct": "I have 3 pencils. He buys 4 more",
+    "cot": "Tom has 3 pencils. He buys 4 more"
+  },
+  {
+    "id": "q2",
+    "question": "A train leaves at 2 PM and arrives at 5 PM. How long is the trip?",
+    "gold": "3",
+    "direct": "The train leaves at 2 PM and arrives at 5",
+    "cot": "The train"
+  }
+]

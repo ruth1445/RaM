@@ -14,7 +14,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
 # Load dataset
-with open("data/sample_questions.json", "r") as f:
+with open("data/data/sample.json", "r") as f:
     questions = json.load(f)
 
 outputs = []
