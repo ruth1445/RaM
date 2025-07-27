@@ -2,4 +2,4 @@ Replica of Rational Metareasoning (RaM) in Large Language Models as proposed by 
 
 Link to paper: https://arxiv.org/abs/2410.05563
 
-Inspired by the idea of choosing when to reason and when to just act in human cognition, this is a demo of the same idea in LLMs using a value of computation (VoC). 
+This repo simulates the concept of Value of Computation (VOC) to explore whether an LLM should reason step-by-step or skip reasoning altogether. By computing a simple VOC score that weighs utility vs cost, we explore adaptive reasoning like humans do.
