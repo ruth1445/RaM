@@ -1,1 +1,7 @@
+transformers
+torch
+datasets
+scipy
+numpy
+streamlit
 
